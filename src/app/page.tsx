@@ -1,3 +1,5 @@
+"use client"
+
 import HotelSearchForm from "@/components/search/HotelSearchForm";
 
 export default function HomePage() {
