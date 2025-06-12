@@ -1,0 +1,3220 @@
+{
+  "count": 326,
+  "next": "https://sandbox.thetravelhunters.com/hotel/hotels/?page=2",
+  "previous": null,
+  "results": [
+    {
+      "id": 199,
+      "rooms": [
+        {
+          "id": 388,
+          "hotel": {
+            "id": 199,
+            "state": {
+              "name": "Lagos",
+              "slug": "lagos state",
+              "country": {
+                "name": "Nigeria"
+              }
+            },
+            "country": {
+              "name": "Nigeria"
+            },
+            "district": {
+              "name": "Ikeja",
+              "state": {
+                "name": "Lagos",
+                "slug": "lagos state",
+                "country": {
+                  "name": "Nigeria"
+                }
+              }
+            },
+            "hotel_name": "The Safron Hotel",
+            "property_type": "Hotel",
+            "hotel_phone_code_1": "+234",
+            "i_own_this_property": "I own the property",
+            "hotel_phone_number_1": "906 649 8862",
+            "hotel_phone_code_2": "",
+            "hotel_phone_number_2": "",
+            "hotel_email": "reservations@thesafronhotel.com",
+            "have_channel_manager": "No",
+            "property_channel_manager": "",
+            "owner_role": "manager",
+            "is_part_of_hotel_chain": "No",
+            "property_chain_manager": "",
+            "describe_property": "The boutique hotel ‘The Safron Hotel, Ikeja’ is conveniently located in the exclusive suburb and serene environment of GRA Ikeja. Conveniently located 8km away from the Murtala Mohammed International airport and only 3km away from Ikeja shopping mall.",
+            "proximity_to_major_attractions": [
+              "City Views Our rooftop lounge on the 7th floor with a beautiful view of the Ikeja Golf Course.",
+              "Airport Proximity Conveniently located 8km away from the Murtala Mohammed International airport and only 3km away from Ikeja shopping mall."
+            ],
+            "things_to_do": [],
+            "places_nearby": [
+              "Best Western Starfire Hotel",
+              "Lagos Marriott Hotel Ikeja",
+              "Yellow Chili Restuarant and bar"
+            ],
+            "popular_landmarks": ["Best Western Starfire hotel"],
+            "property_policy": "No use of illicit Drugs on the premises",
+            "star_rating": 4.0,
+            "location_building_address": "Joel Ogunnaike St, Ikeja GRA, Ikeja 101233, Lagos, Nigeria",
+            "location_building_number": "",
+            "location_country": "Nigeria",
+            "location_state": "Lagos",
+            "location_city": "Ikeja",
+            "location_plot": "",
+            "map_location": {
+              "lat": 9.0701824,
+              "lng": 7.4842112
+            },
+            "location_timezone": "Africa/Lagos",
+            "number_of_bedrooms": null,
+            "number_of_rooms": "54",
+            "postal_code": "101233",
+            "amenities": [
+              {
+                "icon": "https://img.icons8.com/external-bearicons-gradient-bearicons/64/external-FREE-WIFI-capsule-hotel-bearicons-gradient-bearicons.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Wifi"
+              },
+              {
+                "icon": "https://img.icons8.com/nolan/64/balcony.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Balcony/Terrace"
+              },
+              {
+                "icon": "https://img.icons8.com/color/48/user-credentials.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Keyless Access"
+              },
+              {
+                "icon": "https://img.icons8.com/color/48/towel.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Towels"
+              },
+              {
+                "icon": "https://img.icons8.com/fluency/48/air-quality.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Air Conditioning"
+              },
+              {
+                "icon": "https://img.icons8.com/officel/16/valet-parking.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Free Parking"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-heating-home-improvement-flaticons-flat-flat-icons.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Heating"
+              },
+              {
+                "icon": "https://img.icons8.com/external-colours-bomsymbols-/91/external-bath-cosmetics-colours-bomsymbols-.png",
+                "amenity": "Common",
+                "subItem": "Linens"
+              },
+              {
+                "icon": "https://img.icons8.com/color/48/elevator.png",
+                "amenity": "Access",
+                "subItem": "Elevator"
+              },
+              {
+                "icon": "https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/external-dishes-hygiene-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png",
+                "amenity": "Kitchen",
+                "subItem": "Dishes & Kitchen Utensils"
+              },
+              {
+                "icon": "https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-breakfast-hotel-essentials-justicon-lineal-color-justicon.png",
+                "amenity": "Kitchen",
+                "subItem": "Breakfast"
+              },
+              {
+                "icon": "https://img.icons8.com/office/16/coffee-maker.png",
+                "amenity": "Kitchen",
+                "subItem": "Coffee/Tea Maker"
+              },
+              {
+                "icon": "https://img.icons8.com/external-justicon-flat-justicon/64/external-shampoo-hotel-essentials-justicon-flat-justicon.png",
+                "amenity": "Bathroom",
+                "subItem": "Shampoo"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-body-wash-hygiene-flaticons-lineal-color-flat-icons-2.png",
+                "amenity": "Bathroom",
+                "subItem": "Bodywash"
+              },
+              {
+                "icon": "https://img.icons8.com/clouds/100/tv.png",
+                "amenity": "Entertainment",
+                "subItem": "Cable TV"
+              },
+              {
+                "icon": "https://img.icons8.com/ios-filled/50/internet.png",
+                "amenity": "Entertainment",
+                "subItem": "Free Internet"
+              },
+              {
+                "icon": "https://img.icons8.com/clouds/100/security-configuration.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "24-hour Security"
+              },
+              {
+                "icon": "https://img.icons8.com/clouds/100/doctors-bag.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "First Aid Kit"
+              },
+              {
+                "icon": "https://img.icons8.com/dusk/64/fire-extinguisher.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "Fire Extinguisher"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-cleaner-cleaning-flaticons-lineal-color-flat-icons-6.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "Cleaned by Professional Cleaning Company"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/external-hand-sanitizer-wash-hands-flatart-icons-lineal-color-flatarticons.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "Hand Sanitizer & Soap"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-smoke-detector-smart-technology-flaticons-lineal-color-flat-icons.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "Smoke Detector"
+              },
+              {
+                "icon": "https://img.icons8.com/emoji/48/united-kingdom-emoji.png",
+                "amenity": "Language Guide",
+                "subItem": "English"
+              },
+              {
+                "icon": "https://img.icons8.com/bubbles/50/meeting-room.png",
+                "amenity": "On-site facilities",
+                "subItem": "Meeting Room"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-art-gallery-museum-flaticons-flat-flat-icons.png",
+                "amenity": "On-site facilities",
+                "subItem": "Art Gallery"
+              },
+              {
+                "icon": "https://img.icons8.com/nolan/64/city-hall.png",
+                "amenity": "On-site facilities",
+                "subItem": "Event Hall"
+              },
+              {
+                "icon": "https://img.icons8.com/color-glass/48/gum-.png",
+                "amenity": "Others",
+                "subItem": "Gym"
+              },
+              {
+                "icon": "https://img.icons8.com/color-glass/48/pool.png",
+                "amenity": "Others",
+                "subItem": "Swimming Pool"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-refreshment-coffee-flaticons-lineal-color-flat-icons.png",
+                "amenity": "",
+                "subItem": "Means of Identification"
+              }
+            ],
+            "things_allowed": null,
+            "number_rooms_type": "1",
+            "full_payment": false,
+            "full_payment_info": ["Cash", "Bank Transfer", "Debit Card"],
+            "pay_half": false,
+            "pay_at_hotel": true,
+            "pay_through_agency": false,
+            "property_video": null,
+            "cancellation_policy_time": "24",
+            "cancellation_policy_update_name": null,
+            "cancellation_policy_update_time": null,
+            "cancellation_policy_percentage": "75",
+            "vat": "Yes",
+            "post_stay": null,
+            "vat_percentage": null,
+            "agree_is_best_price": true,
+            "age_restriction": "18",
+            "check_in_time": "14:00",
+            "check_out_time": "12:00",
+            "main_photo": [
+              "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_cr8PsYx.jpg"
+            ],
+            "exterior_photo": [
+              {
+                "caption": "Reception",
+                "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_HlRsQCI.jpg",
+                "loading": false,
+                "progress": 0
+              },
+              {
+                "caption": "Meeting room",
+                "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_LMW9tR4.jpg",
+                "loading": false,
+                "progress": 0
+              },
+              {
+                "caption": "Entrance",
+                "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_pKSiZa9.jpg",
+                "loading": false,
+                "progress": 0
+              },
+              {
+                "caption": "Reception",
+                "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_2SShvdV.jpg",
+                "loading": false,
+                "progress": 0
+              }
+            ],
+            "accept_terms_and_conditions": true,
+            "go_live": false,
+            "hotel_status": "approved",
+            "created_at": "2024-04-30T17:09:30.515406+01:00",
+            "updated_at": "2025-01-28T20:17:23.035094+01:00",
+            "agreement_doc": null,
+            "number_clickes": 1486,
+            "agreement_file": null,
+            "commission": "10%",
+            "hotel_late_night_deals": true,
+            "number_likes": 0,
+            "hotel_badge": "no_badge",
+            "urgency_notification": true,
+            "urgency_notification_time": "2025-05-28T21:40:48.518678+01:00",
+            "urgency_notification_message": "Most searched today in Ikeja",
+            "user": 143
+          },
+          "roomimages": [
+            {
+              "id": 19501,
+              "image_url": "https://thetravelhunters.fra1.digitaloceanspaces.com/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_sXp9xTX.jpg",
+              "created_at": "2025-02-19T05:11:57.539433+01:00",
+              "room": 388
+            },
+            {
+              "id": 19502,
+              "image_url": "https://thetravelhunters.fra1.digitaloceanspaces.com/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_hWrO4GG.jpg",
+              "created_at": "2025-02-19T05:11:57.541186+01:00",
+              "room": 388
+            },
+            {
+              "id": 19503,
+              "image_url": "https://thetravelhunters.fra1.digitaloceanspaces.com/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_cqe21vD.jpg",
+              "created_at": "2025-02-19T05:11:57.542516+01:00",
+              "room": 388
+            }
+          ],
+          "late_night_date": [
+            {
+              "id": 41015,
+              "late_night_date": "2025-02-06",
+              "room": 388
+            },
+            {
+              "id": 41016,
+              "late_night_date": "2025-02-07",
+              "room": 388
+            },
+            {
+              "id": 41017,
+              "late_night_date": "2025-02-08",
+              "room": 388
+            },
+            {
+              "id": 41018,
+              "late_night_date": "2025-02-09",
+              "room": 388
+            },
+            {
+              "id": 41019,
+              "late_night_date": "2025-02-10",
+              "room": 388
+            },
+            {
+              "id": 41020,
+              "late_night_date": "2025-02-11",
+              "room": 388
+            },
+            {
+              "id": 41021,
+              "late_night_date": "2025-02-12",
+              "room": 388
+            },
+            {
+              "id": 41022,
+              "late_night_date": "2025-02-13",
+              "room": 388
+            },
+            {
+              "id": 41023,
+              "late_night_date": "2025-02-14",
+              "room": 388
+            },
+            {
+              "id": 41024,
+              "late_night_date": "2025-02-15",
+              "room": 388
+            },
+            {
+              "id": 41025,
+              "late_night_date": "2025-02-16",
+              "room": 388
+            },
+            {
+              "id": 41026,
+              "late_night_date": "2025-01-25",
+              "room": 388
+            },
+            {
+              "id": 41027,
+              "late_night_date": "2025-01-26",
+              "room": 388
+            },
+            {
+              "id": 41028,
+              "late_night_date": "2025-01-27",
+              "room": 388
+            },
+            {
+              "id": 41029,
+              "late_night_date": "2025-01-28",
+              "room": 388
+            },
+            {
+              "id": 41030,
+              "late_night_date": "2025-01-29",
+              "room": 388
+            },
+            {
+              "id": 41031,
+              "late_night_date": "2025-01-30",
+              "room": 388
+            },
+            {
+              "id": 41032,
+              "late_night_date": "2025-01-31",
+              "room": 388
+            },
+            {
+              "id": 41033,
+              "late_night_date": "2024-12-03",
+              "room": 388
+            },
+            {
+              "id": 41034,
+              "late_night_date": "2024-12-04",
+              "room": 388
+            },
+            {
+              "id": 41035,
+              "late_night_date": "2024-12-05",
+              "room": 388
+            },
+            {
+              "id": 41036,
+              "late_night_date": "2024-12-06",
+              "room": 388
+            },
+            {
+              "id": 41037,
+              "late_night_date": "2024-12-07",
+              "room": 388
+            },
+            {
+              "id": 41038,
+              "late_night_date": "2024-12-08",
+              "room": 388
+            },
+            {
+              "id": 41039,
+              "late_night_date": "2024-12-09",
+              "room": 388
+            },
+            {
+              "id": 41040,
+              "late_night_date": "2024-12-10",
+              "room": 388
+            },
+            {
+              "id": 41041,
+              "late_night_date": "2024-12-11",
+              "room": 388
+            },
+            {
+              "id": 41042,
+              "late_night_date": "2024-12-12",
+              "room": 388
+            },
+            {
+              "id": 41043,
+              "late_night_date": "2024-12-13",
+              "room": 388
+            },
+            {
+              "id": 41044,
+              "late_night_date": "2024-12-14",
+              "room": 388
+            },
+            {
+              "id": 41045,
+              "late_night_date": "2024-12-15",
+              "room": 388
+            },
+            {
+              "id": 41046,
+              "late_night_date": "2024-12-16",
+              "room": 388
+            },
+            {
+              "id": 41047,
+              "late_night_date": "2024-12-17",
+              "room": 388
+            },
+            {
+              "id": 41048,
+              "late_night_date": "2024-12-18",
+              "room": 388
+            },
+            {
+              "id": 41049,
+              "late_night_date": "2024-12-19",
+              "room": 388
+            },
+            {
+              "id": 41050,
+              "late_night_date": "2024-12-20",
+              "room": 388
+            },
+            {
+              "id": 41051,
+              "late_night_date": "2024-12-21",
+              "room": 388
+            },
+            {
+              "id": 41052,
+              "late_night_date": "2024-12-22",
+              "room": 388
+            },
+            {
+              "id": 41053,
+              "late_night_date": "2025-01-07",
+              "room": 388
+            },
+            {
+              "id": 41054,
+              "late_night_date": "2025-01-08",
+              "room": 388
+            },
+            {
+              "id": 41055,
+              "late_night_date": "2025-01-09",
+              "room": 388
+            },
+            {
+              "id": 41056,
+              "late_night_date": "2025-01-10",
+              "room": 388
+            },
+            {
+              "id": 41057,
+              "late_night_date": "2025-01-11",
+              "room": 388
+            },
+            {
+              "id": 41058,
+              "late_night_date": "2025-01-12",
+              "room": 388
+            },
+            {
+              "id": 41059,
+              "late_night_date": "2025-01-13",
+              "room": 388
+            },
+            {
+              "id": 41060,
+              "late_night_date": "2025-01-14",
+              "room": 388
+            },
+            {
+              "id": 41061,
+              "late_night_date": "2025-01-15",
+              "room": 388
+            },
+            {
+              "id": 41062,
+              "late_night_date": "2025-01-16",
+              "room": 388
+            },
+            {
+              "id": 41063,
+              "late_night_date": "2025-01-17",
+              "room": 388
+            },
+            {
+              "id": 41064,
+              "late_night_date": "2025-01-18",
+              "room": 388
+            },
+            {
+              "id": 41065,
+              "late_night_date": "2025-01-19",
+              "room": 388
+            },
+            {
+              "id": 41066,
+              "late_night_date": "2025-01-20",
+              "room": 388
+            },
+            {
+              "id": 41067,
+              "late_night_date": "2025-01-21",
+              "room": 388
+            },
+            {
+              "id": 41068,
+              "late_night_date": "2025-01-22",
+              "room": 388
+            },
+            {
+              "id": 41069,
+              "late_night_date": "2025-01-23",
+              "room": 388
+            },
+            {
+              "id": 41070,
+              "late_night_date": "2025-01-24",
+              "room": 388
+            },
+            {
+              "id": 41071,
+              "late_night_date": "2025-02-17",
+              "room": 388
+            },
+            {
+              "id": 41072,
+              "late_night_date": "2025-02-18",
+              "room": 388
+            },
+            {
+              "id": 41073,
+              "late_night_date": "2025-02-19",
+              "room": 388
+            },
+            {
+              "id": 41074,
+              "late_night_date": "2025-02-20",
+              "room": 388
+            },
+            {
+              "id": 41075,
+              "late_night_date": "2025-02-21",
+              "room": 388
+            },
+            {
+              "id": 41076,
+              "late_night_date": "2025-02-22",
+              "room": 388
+            },
+            {
+              "id": 41077,
+              "late_night_date": "2025-02-23",
+              "room": 388
+            },
+            {
+              "id": 41078,
+              "late_night_date": "2025-02-24",
+              "room": 388
+            },
+            {
+              "id": 41079,
+              "late_night_date": "2025-02-25",
+              "room": 388
+            },
+            {
+              "id": 41080,
+              "late_night_date": "2025-02-26",
+              "room": 388
+            },
+            {
+              "id": 41081,
+              "late_night_date": "2025-02-27",
+              "room": 388
+            },
+            {
+              "id": 41082,
+              "late_night_date": "2025-02-28",
+              "room": 388
+            }
+          ],
+          "rooms_rates_per_night": 120000,
+          "number_of_rooms": 0,
+          "number_of_room_taken": 0,
+          "room_name": "Deluxe room",
+          "rooms_capacity": 2,
+          "room_video": null,
+          "rooms_type": "Deluxe Room",
+          "rooms_class": "Single",
+          "rooms_bed_type": "King bed",
+          "rooms_additional_deals": [
+            {
+              "icon": "https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-breakfast-hotel-essentials-justicon-lineal-color-justicon.png",
+              "amenity": "Complementary Deals",
+              "subItem": "BreakFast Included"
+            }
+          ],
+          "rooms_amenities": [
+            {
+              "icon": "https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-breakfast-hotel-essentials-justicon-lineal-color-justicon.png",
+              "amenity": "Deals in this Room Type",
+              "subItem": "Breakfast Included"
+            },
+            {
+              "icon": "https://img.icons8.com/water-color/50/telephone.png",
+              "amenity": "Room amenities",
+              "subItem": "Telephone"
+            },
+            {
+              "icon": "https://img.icons8.com/dusk/64/coffee_maker.png",
+              "amenity": "Room amenities",
+              "subItem": "Coffee/Tea maker"
+            },
+            {
+              "icon": "https://img.icons8.com/dusk/64/shower.png",
+              "amenity": "Room amenities",
+              "subItem": "Shower"
+            },
+            {
+              "icon": "https://img.icons8.com/water-color/50/central-air-conditioning.png",
+              "amenity": "Room amenities",
+              "subItem": "Air Conditioner"
+            },
+            {
+              "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-refreshment-coffee-flaticons-lineal-color-flat-icons.png",
+              "amenity": "Room amenities",
+              "subItem": "24-Hour room service"
+            },
+            {
+              "icon": "https://img.icons8.com/dusk/64/fridge.png",
+              "amenity": "Room amenities",
+              "subItem": "Fridge"
+            }
+          ],
+          "rooms_week_rate_off": 5,
+          "rooms_month_rate_off": 5,
+          "rooms_deals_per_night": 5,
+          "late_night_deals": true,
+          "late_night_room_rate_off": 10,
+          "late_night_rooms_remaining": 3,
+          "late_night_amenities": [],
+          "created_at": "2024-05-08T10:39:42.877333+01:00"
+        },
+        {
+          "id": 389,
+          "hotel": {
+            "id": 199,
+            "state": {
+              "name": "Lagos",
+              "slug": "lagos state",
+              "country": {
+                "name": "Nigeria"
+              }
+            },
+            "country": {
+              "name": "Nigeria"
+            },
+            "district": {
+              "name": "Ikeja",
+              "state": {
+                "name": "Lagos",
+                "slug": "lagos state",
+                "country": {
+                  "name": "Nigeria"
+                }
+              }
+            },
+            "hotel_name": "The Safron Hotel",
+            "property_type": "Hotel",
+            "hotel_phone_code_1": "+234",
+            "i_own_this_property": "I own the property",
+            "hotel_phone_number_1": "906 649 8862",
+            "hotel_phone_code_2": "",
+            "hotel_phone_number_2": "",
+            "hotel_email": "reservations@thesafronhotel.com",
+            "have_channel_manager": "No",
+            "property_channel_manager": "",
+            "owner_role": "manager",
+            "is_part_of_hotel_chain": "No",
+            "property_chain_manager": "",
+            "describe_property": "The boutique hotel ‘The Safron Hotel, Ikeja’ is conveniently located in the exclusive suburb and serene environment of GRA Ikeja. Conveniently located 8km away from the Murtala Mohammed International airport and only 3km away from Ikeja shopping mall.",
+            "proximity_to_major_attractions": [
+              "City Views Our rooftop lounge on the 7th floor with a beautiful view of the Ikeja Golf Course.",
+              "Airport Proximity Conveniently located 8km away from the Murtala Mohammed International airport and only 3km away from Ikeja shopping mall."
+            ],
+            "things_to_do": [],
+            "places_nearby": [
+              "Best Western Starfire Hotel",
+              "Lagos Marriott Hotel Ikeja",
+              "Yellow Chili Restuarant and bar"
+            ],
+            "popular_landmarks": ["Best Western Starfire hotel"],
+            "property_policy": "No use of illicit Drugs on the premises",
+            "star_rating": 4.0,
+            "location_building_address": "Joel Ogunnaike St, Ikeja GRA, Ikeja 101233, Lagos, Nigeria",
+            "location_building_number": "",
+            "location_country": "Nigeria",
+            "location_state": "Lagos",
+            "location_city": "Ikeja",
+            "location_plot": "",
+            "map_location": {
+              "lat": 9.0701824,
+              "lng": 7.4842112
+            },
+            "location_timezone": "Africa/Lagos",
+            "number_of_bedrooms": null,
+            "number_of_rooms": "54",
+            "postal_code": "101233",
+            "amenities": [
+              {
+                "icon": "https://img.icons8.com/external-bearicons-gradient-bearicons/64/external-FREE-WIFI-capsule-hotel-bearicons-gradient-bearicons.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Wifi"
+              },
+              {
+                "icon": "https://img.icons8.com/nolan/64/balcony.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Balcony/Terrace"
+              },
+              {
+                "icon": "https://img.icons8.com/color/48/user-credentials.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Keyless Access"
+              },
+              {
+                "icon": "https://img.icons8.com/color/48/towel.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Towels"
+              },
+              {
+                "icon": "https://img.icons8.com/fluency/48/air-quality.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Air Conditioning"
+              },
+              {
+                "icon": "https://img.icons8.com/officel/16/valet-parking.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Free Parking"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-heating-home-improvement-flaticons-flat-flat-icons.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Heating"
+              },
+              {
+                "icon": "https://img.icons8.com/external-colours-bomsymbols-/91/external-bath-cosmetics-colours-bomsymbols-.png",
+                "amenity": "Common",
+                "subItem": "Linens"
+              },
+              {
+                "icon": "https://img.icons8.com/color/48/elevator.png",
+                "amenity": "Access",
+                "subItem": "Elevator"
+              },
+              {
+                "icon": "https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/external-dishes-hygiene-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png",
+                "amenity": "Kitchen",
+                "subItem": "Dishes & Kitchen Utensils"
+              },
+              {
+                "icon": "https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-breakfast-hotel-essentials-justicon-lineal-color-justicon.png",
+                "amenity": "Kitchen",
+                "subItem": "Breakfast"
+              },
+              {
+                "icon": "https://img.icons8.com/office/16/coffee-maker.png",
+                "amenity": "Kitchen",
+                "subItem": "Coffee/Tea Maker"
+              },
+              {
+                "icon": "https://img.icons8.com/external-justicon-flat-justicon/64/external-shampoo-hotel-essentials-justicon-flat-justicon.png",
+                "amenity": "Bathroom",
+                "subItem": "Shampoo"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-body-wash-hygiene-flaticons-lineal-color-flat-icons-2.png",
+                "amenity": "Bathroom",
+                "subItem": "Bodywash"
+              },
+              {
+                "icon": "https://img.icons8.com/clouds/100/tv.png",
+                "amenity": "Entertainment",
+                "subItem": "Cable TV"
+              },
+              {
+                "icon": "https://img.icons8.com/ios-filled/50/internet.png",
+                "amenity": "Entertainment",
+                "subItem": "Free Internet"
+              },
+              {
+                "icon": "https://img.icons8.com/clouds/100/security-configuration.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "24-hour Security"
+              },
+              {
+                "icon": "https://img.icons8.com/clouds/100/doctors-bag.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "First Aid Kit"
+              },
+              {
+                "icon": "https://img.icons8.com/dusk/64/fire-extinguisher.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "Fire Extinguisher"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-cleaner-cleaning-flaticons-lineal-color-flat-icons-6.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "Cleaned by Professional Cleaning Company"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/external-hand-sanitizer-wash-hands-flatart-icons-lineal-color-flatarticons.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "Hand Sanitizer & Soap"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-smoke-detector-smart-technology-flaticons-lineal-color-flat-icons.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "Smoke Detector"
+              },
+              {
+                "icon": "https://img.icons8.com/emoji/48/united-kingdom-emoji.png",
+                "amenity": "Language Guide",
+                "subItem": "English"
+              },
+              {
+                "icon": "https://img.icons8.com/bubbles/50/meeting-room.png",
+                "amenity": "On-site facilities",
+                "subItem": "Meeting Room"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-art-gallery-museum-flaticons-flat-flat-icons.png",
+                "amenity": "On-site facilities",
+                "subItem": "Art Gallery"
+              },
+              {
+                "icon": "https://img.icons8.com/nolan/64/city-hall.png",
+                "amenity": "On-site facilities",
+                "subItem": "Event Hall"
+              },
+              {
+                "icon": "https://img.icons8.com/color-glass/48/gum-.png",
+                "amenity": "Others",
+                "subItem": "Gym"
+              },
+              {
+                "icon": "https://img.icons8.com/color-glass/48/pool.png",
+                "amenity": "Others",
+                "subItem": "Swimming Pool"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-refreshment-coffee-flaticons-lineal-color-flat-icons.png",
+                "amenity": "",
+                "subItem": "Means of Identification"
+              }
+            ],
+            "things_allowed": null,
+            "number_rooms_type": "1",
+            "full_payment": false,
+            "full_payment_info": ["Cash", "Bank Transfer", "Debit Card"],
+            "pay_half": false,
+            "pay_at_hotel": true,
+            "pay_through_agency": false,
+            "property_video": null,
+            "cancellation_policy_time": "24",
+            "cancellation_policy_update_name": null,
+            "cancellation_policy_update_time": null,
+            "cancellation_policy_percentage": "75",
+            "vat": "Yes",
+            "post_stay": null,
+            "vat_percentage": null,
+            "agree_is_best_price": true,
+            "age_restriction": "18",
+            "check_in_time": "14:00",
+            "check_out_time": "12:00",
+            "main_photo": [
+              "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_cr8PsYx.jpg"
+            ],
+            "exterior_photo": [
+              {
+                "caption": "Reception",
+                "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_HlRsQCI.jpg",
+                "loading": false,
+                "progress": 0
+              },
+              {
+                "caption": "Meeting room",
+                "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_LMW9tR4.jpg",
+                "loading": false,
+                "progress": 0
+              },
+              {
+                "caption": "Entrance",
+                "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_pKSiZa9.jpg",
+                "loading": false,
+                "progress": 0
+              },
+              {
+                "caption": "Reception",
+                "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_2SShvdV.jpg",
+                "loading": false,
+                "progress": 0
+              }
+            ],
+            "accept_terms_and_conditions": true,
+            "go_live": false,
+            "hotel_status": "approved",
+            "created_at": "2024-04-30T17:09:30.515406+01:00",
+            "updated_at": "2025-01-28T20:17:23.035094+01:00",
+            "agreement_doc": null,
+            "number_clickes": 1486,
+            "agreement_file": null,
+            "commission": "10%",
+            "hotel_late_night_deals": true,
+            "number_likes": 0,
+            "hotel_badge": "no_badge",
+            "urgency_notification": true,
+            "urgency_notification_time": "2025-05-28T21:40:48.518678+01:00",
+            "urgency_notification_message": "Most searched today in Ikeja",
+            "user": 143
+          },
+          "roomimages": [
+            {
+              "id": 19043,
+              "image_url": "https://thetravelhunters.fra1.digitaloceanspaces.com/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_f2YOT1P.jpg",
+              "created_at": "2025-02-06T06:17:16.807547+01:00",
+              "room": 389
+            },
+            {
+              "id": 19044,
+              "image_url": "https://thetravelhunters.fra1.digitaloceanspaces.com/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_dcGmU5D.jpg",
+              "created_at": "2025-02-06T06:17:16.809400+01:00",
+              "room": 389
+            },
+            {
+              "id": 19045,
+              "image_url": "https://thetravelhunters.fra1.digitaloceanspaces.com/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_XHLF2YT.jpg",
+              "created_at": "2025-02-06T06:17:16.810589+01:00",
+              "room": 389
+            }
+          ],
+          "late_night_date": [
+            {
+              "id": 38421,
+              "late_night_date": "2024-12-03",
+              "room": 389
+            },
+            {
+              "id": 38422,
+              "late_night_date": "2024-12-04",
+              "room": 389
+            },
+            {
+              "id": 38423,
+              "late_night_date": "2024-12-05",
+              "room": 389
+            },
+            {
+              "id": 38424,
+              "late_night_date": "2024-12-06",
+              "room": 389
+            },
+            {
+              "id": 38425,
+              "late_night_date": "2024-12-07",
+              "room": 389
+            },
+            {
+              "id": 38426,
+              "late_night_date": "2024-12-08",
+              "room": 389
+            },
+            {
+              "id": 38427,
+              "late_night_date": "2024-12-09",
+              "room": 389
+            },
+            {
+              "id": 38428,
+              "late_night_date": "2024-12-10",
+              "room": 389
+            },
+            {
+              "id": 38429,
+              "late_night_date": "2024-12-11",
+              "room": 389
+            },
+            {
+              "id": 38430,
+              "late_night_date": "2024-12-12",
+              "room": 389
+            },
+            {
+              "id": 38431,
+              "late_night_date": "2024-12-13",
+              "room": 389
+            },
+            {
+              "id": 38432,
+              "late_night_date": "2024-12-14",
+              "room": 389
+            },
+            {
+              "id": 38433,
+              "late_night_date": "2024-12-15",
+              "room": 389
+            },
+            {
+              "id": 38434,
+              "late_night_date": "2024-12-16",
+              "room": 389
+            },
+            {
+              "id": 38435,
+              "late_night_date": "2024-12-17",
+              "room": 389
+            },
+            {
+              "id": 38436,
+              "late_night_date": "2024-12-18",
+              "room": 389
+            },
+            {
+              "id": 38437,
+              "late_night_date": "2024-12-19",
+              "room": 389
+            },
+            {
+              "id": 38438,
+              "late_night_date": "2024-12-20",
+              "room": 389
+            },
+            {
+              "id": 38439,
+              "late_night_date": "2024-12-21",
+              "room": 389
+            },
+            {
+              "id": 38440,
+              "late_night_date": "2024-12-22",
+              "room": 389
+            },
+            {
+              "id": 38441,
+              "late_night_date": "2024-12-24",
+              "room": 389
+            },
+            {
+              "id": 38442,
+              "late_night_date": "2024-12-25",
+              "room": 389
+            },
+            {
+              "id": 38443,
+              "late_night_date": "2024-12-26",
+              "room": 389
+            },
+            {
+              "id": 38444,
+              "late_night_date": "2024-12-27",
+              "room": 389
+            },
+            {
+              "id": 38445,
+              "late_night_date": "2024-12-28",
+              "room": 389
+            },
+            {
+              "id": 38446,
+              "late_night_date": "2024-12-29",
+              "room": 389
+            },
+            {
+              "id": 38447,
+              "late_night_date": "2024-12-30",
+              "room": 389
+            },
+            {
+              "id": 38448,
+              "late_night_date": "2024-12-31",
+              "room": 389
+            },
+            {
+              "id": 38449,
+              "late_night_date": "2025-01-01",
+              "room": 389
+            },
+            {
+              "id": 38450,
+              "late_night_date": "2025-01-02",
+              "room": 389
+            },
+            {
+              "id": 38451,
+              "late_night_date": "2025-01-03",
+              "room": 389
+            },
+            {
+              "id": 38452,
+              "late_night_date": "2025-01-04",
+              "room": 389
+            },
+            {
+              "id": 38453,
+              "late_night_date": "2025-01-05",
+              "room": 389
+            },
+            {
+              "id": 38454,
+              "late_night_date": "2025-01-06",
+              "room": 389
+            },
+            {
+              "id": 38455,
+              "late_night_date": "2025-01-07",
+              "room": 389
+            },
+            {
+              "id": 38456,
+              "late_night_date": "2025-01-08",
+              "room": 389
+            },
+            {
+              "id": 38457,
+              "late_night_date": "2025-01-09",
+              "room": 389
+            },
+            {
+              "id": 38458,
+              "late_night_date": "2025-01-10",
+              "room": 389
+            },
+            {
+              "id": 38459,
+              "late_night_date": "2025-01-11",
+              "room": 389
+            },
+            {
+              "id": 38460,
+              "late_night_date": "2025-01-12",
+              "room": 389
+            },
+            {
+              "id": 38461,
+              "late_night_date": "2025-01-13",
+              "room": 389
+            },
+            {
+              "id": 38462,
+              "late_night_date": "2025-01-14",
+              "room": 389
+            },
+            {
+              "id": 38463,
+              "late_night_date": "2025-01-15",
+              "room": 389
+            },
+            {
+              "id": 38464,
+              "late_night_date": "2025-01-16",
+              "room": 389
+            },
+            {
+              "id": 38465,
+              "late_night_date": "2025-01-17",
+              "room": 389
+            },
+            {
+              "id": 38466,
+              "late_night_date": "2025-01-18",
+              "room": 389
+            },
+            {
+              "id": 38467,
+              "late_night_date": "2025-01-19",
+              "room": 389
+            },
+            {
+              "id": 38468,
+              "late_night_date": "2025-01-20",
+              "room": 389
+            },
+            {
+              "id": 38469,
+              "late_night_date": "2025-01-21",
+              "room": 389
+            },
+            {
+              "id": 38470,
+              "late_night_date": "2025-01-22",
+              "room": 389
+            },
+            {
+              "id": 38471,
+              "late_night_date": "2025-01-23",
+              "room": 389
+            },
+            {
+              "id": 38472,
+              "late_night_date": "2025-01-24",
+              "room": 389
+            },
+            {
+              "id": 38473,
+              "late_night_date": "2025-01-25",
+              "room": 389
+            },
+            {
+              "id": 38474,
+              "late_night_date": "2025-01-26",
+              "room": 389
+            },
+            {
+              "id": 38475,
+              "late_night_date": "2025-01-27",
+              "room": 389
+            },
+            {
+              "id": 38476,
+              "late_night_date": "2025-01-28",
+              "room": 389
+            },
+            {
+              "id": 38477,
+              "late_night_date": "2025-01-29",
+              "room": 389
+            },
+            {
+              "id": 38478,
+              "late_night_date": "2025-01-30",
+              "room": 389
+            },
+            {
+              "id": 38479,
+              "late_night_date": "2025-01-31",
+              "room": 389
+            },
+            {
+              "id": 38480,
+              "late_night_date": "2025-02-06",
+              "room": 389
+            },
+            {
+              "id": 38481,
+              "late_night_date": "2025-02-07",
+              "room": 389
+            },
+            {
+              "id": 38482,
+              "late_night_date": "2025-02-08",
+              "room": 389
+            },
+            {
+              "id": 38483,
+              "late_night_date": "2025-02-09",
+              "room": 389
+            },
+            {
+              "id": 38484,
+              "late_night_date": "2025-02-10",
+              "room": 389
+            },
+            {
+              "id": 38485,
+              "late_night_date": "2025-02-11",
+              "room": 389
+            },
+            {
+              "id": 38486,
+              "late_night_date": "2025-02-12",
+              "room": 389
+            },
+            {
+              "id": 38487,
+              "late_night_date": "2025-02-13",
+              "room": 389
+            },
+            {
+              "id": 38488,
+              "late_night_date": "2025-02-14",
+              "room": 389
+            },
+            {
+              "id": 38489,
+              "late_night_date": "2025-02-15",
+              "room": 389
+            },
+            {
+              "id": 38490,
+              "late_night_date": "2025-02-16",
+              "room": 389
+            }
+          ],
+          "rooms_rates_per_night": 130000,
+          "number_of_rooms": 0,
+          "number_of_room_taken": 0,
+          "room_name": "Superior Room",
+          "rooms_capacity": 2,
+          "room_video": null,
+          "rooms_type": "Business Room",
+          "rooms_class": "Single",
+          "rooms_bed_type": "King bed",
+          "rooms_additional_deals": [
+            {
+              "icon": "https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-breakfast-hotel-essentials-justicon-lineal-color-justicon.png",
+              "amenity": "Complementary Deals",
+              "subItem": "BreakFast Included"
+            }
+          ],
+          "rooms_amenities": [
+            {
+              "icon": "https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-breakfast-hotel-essentials-justicon-lineal-color-justicon.png",
+              "amenity": "Deals in this Room Type",
+              "subItem": "Breakfast Included"
+            },
+            {
+              "icon": "https://img.icons8.com/water-color/50/central-air-conditioning.png",
+              "amenity": "Room amenities",
+              "subItem": "Air Conditioner"
+            },
+            {
+              "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-refreshment-coffee-flaticons-lineal-color-flat-icons.png",
+              "amenity": "Room amenities",
+              "subItem": "24-Hour room service"
+            },
+            {
+              "icon": "https://img.icons8.com/dusk/64/fridge.png",
+              "amenity": "Room amenities",
+              "subItem": "Fridge"
+            },
+            {
+              "icon": "https://img.icons8.com/dusk/64/shower.png",
+              "amenity": "Room amenities",
+              "subItem": "Shower"
+            },
+            {
+              "icon": "https://img.icons8.com/water-color/50/telephone.png",
+              "amenity": "Room amenities",
+              "subItem": "Telephone"
+            },
+            {
+              "icon": "https://img.icons8.com/dusk/64/coffee_maker.png",
+              "amenity": "Room amenities",
+              "subItem": "Coffee/Tea maker"
+            }
+          ],
+          "rooms_week_rate_off": 5,
+          "rooms_month_rate_off": 5,
+          "rooms_deals_per_night": 5,
+          "late_night_deals": true,
+          "late_night_room_rate_off": 5,
+          "late_night_rooms_remaining": 3,
+          "late_night_amenities": [],
+          "created_at": "2024-05-08T11:00:59.949031+01:00"
+        },
+        {
+          "id": 387,
+          "hotel": {
+            "id": 199,
+            "state": {
+              "name": "Lagos",
+              "slug": "lagos state",
+              "country": {
+                "name": "Nigeria"
+              }
+            },
+            "country": {
+              "name": "Nigeria"
+            },
+            "district": {
+              "name": "Ikeja",
+              "state": {
+                "name": "Lagos",
+                "slug": "lagos state",
+                "country": {
+                  "name": "Nigeria"
+                }
+              }
+            },
+            "hotel_name": "The Safron Hotel",
+            "property_type": "Hotel",
+            "hotel_phone_code_1": "+234",
+            "i_own_this_property": "I own the property",
+            "hotel_phone_number_1": "906 649 8862",
+            "hotel_phone_code_2": "",
+            "hotel_phone_number_2": "",
+            "hotel_email": "reservations@thesafronhotel.com",
+            "have_channel_manager": "No",
+            "property_channel_manager": "",
+            "owner_role": "manager",
+            "is_part_of_hotel_chain": "No",
+            "property_chain_manager": "",
+            "describe_property": "The boutique hotel ‘The Safron Hotel, Ikeja’ is conveniently located in the exclusive suburb and serene environment of GRA Ikeja. Conveniently located 8km away from the Murtala Mohammed International airport and only 3km away from Ikeja shopping mall.",
+            "proximity_to_major_attractions": [
+              "City Views Our rooftop lounge on the 7th floor with a beautiful view of the Ikeja Golf Course.",
+              "Airport Proximity Conveniently located 8km away from the Murtala Mohammed International airport and only 3km away from Ikeja shopping mall."
+            ],
+            "things_to_do": [],
+            "places_nearby": [
+              "Best Western Starfire Hotel",
+              "Lagos Marriott Hotel Ikeja",
+              "Yellow Chili Restuarant and bar"
+            ],
+            "popular_landmarks": ["Best Western Starfire hotel"],
+            "property_policy": "No use of illicit Drugs on the premises",
+            "star_rating": 4.0,
+            "location_building_address": "Joel Ogunnaike St, Ikeja GRA, Ikeja 101233, Lagos, Nigeria",
+            "location_building_number": "",
+            "location_country": "Nigeria",
+            "location_state": "Lagos",
+            "location_city": "Ikeja",
+            "location_plot": "",
+            "map_location": {
+              "lat": 9.0701824,
+              "lng": 7.4842112
+            },
+            "location_timezone": "Africa/Lagos",
+            "number_of_bedrooms": null,
+            "number_of_rooms": "54",
+            "postal_code": "101233",
+            "amenities": [
+              {
+                "icon": "https://img.icons8.com/external-bearicons-gradient-bearicons/64/external-FREE-WIFI-capsule-hotel-bearicons-gradient-bearicons.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Wifi"
+              },
+              {
+                "icon": "https://img.icons8.com/nolan/64/balcony.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Balcony/Terrace"
+              },
+              {
+                "icon": "https://img.icons8.com/color/48/user-credentials.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Keyless Access"
+              },
+              {
+                "icon": "https://img.icons8.com/color/48/towel.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Towels"
+              },
+              {
+                "icon": "https://img.icons8.com/fluency/48/air-quality.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Air Conditioning"
+              },
+              {
+                "icon": "https://img.icons8.com/officel/16/valet-parking.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Free Parking"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-heating-home-improvement-flaticons-flat-flat-icons.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Heating"
+              },
+              {
+                "icon": "https://img.icons8.com/external-colours-bomsymbols-/91/external-bath-cosmetics-colours-bomsymbols-.png",
+                "amenity": "Common",
+                "subItem": "Linens"
+              },
+              {
+                "icon": "https://img.icons8.com/color/48/elevator.png",
+                "amenity": "Access",
+                "subItem": "Elevator"
+              },
+              {
+                "icon": "https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/external-dishes-hygiene-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png",
+                "amenity": "Kitchen",
+                "subItem": "Dishes & Kitchen Utensils"
+              },
+              {
+                "icon": "https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-breakfast-hotel-essentials-justicon-lineal-color-justicon.png",
+                "amenity": "Kitchen",
+                "subItem": "Breakfast"
+              },
+              {
+                "icon": "https://img.icons8.com/office/16/coffee-maker.png",
+                "amenity": "Kitchen",
+                "subItem": "Coffee/Tea Maker"
+              },
+              {
+                "icon": "https://img.icons8.com/external-justicon-flat-justicon/64/external-shampoo-hotel-essentials-justicon-flat-justicon.png",
+                "amenity": "Bathroom",
+                "subItem": "Shampoo"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-body-wash-hygiene-flaticons-lineal-color-flat-icons-2.png",
+                "amenity": "Bathroom",
+                "subItem": "Bodywash"
+              },
+              {
+                "icon": "https://img.icons8.com/clouds/100/tv.png",
+                "amenity": "Entertainment",
+                "subItem": "Cable TV"
+              },
+              {
+                "icon": "https://img.icons8.com/ios-filled/50/internet.png",
+                "amenity": "Entertainment",
+                "subItem": "Free Internet"
+              },
+              {
+                "icon": "https://img.icons8.com/clouds/100/security-configuration.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "24-hour Security"
+              },
+              {
+                "icon": "https://img.icons8.com/clouds/100/doctors-bag.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "First Aid Kit"
+              },
+              {
+                "icon": "https://img.icons8.com/dusk/64/fire-extinguisher.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "Fire Extinguisher"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-cleaner-cleaning-flaticons-lineal-color-flat-icons-6.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "Cleaned by Professional Cleaning Company"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/external-hand-sanitizer-wash-hands-flatart-icons-lineal-color-flatarticons.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "Hand Sanitizer & Soap"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-smoke-detector-smart-technology-flaticons-lineal-color-flat-icons.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "Smoke Detector"
+              },
+              {
+                "icon": "https://img.icons8.com/emoji/48/united-kingdom-emoji.png",
+                "amenity": "Language Guide",
+                "subItem": "English"
+              },
+              {
+                "icon": "https://img.icons8.com/bubbles/50/meeting-room.png",
+                "amenity": "On-site facilities",
+                "subItem": "Meeting Room"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-art-gallery-museum-flaticons-flat-flat-icons.png",
+                "amenity": "On-site facilities",
+                "subItem": "Art Gallery"
+              },
+              {
+                "icon": "https://img.icons8.com/nolan/64/city-hall.png",
+                "amenity": "On-site facilities",
+                "subItem": "Event Hall"
+              },
+              {
+                "icon": "https://img.icons8.com/color-glass/48/gum-.png",
+                "amenity": "Others",
+                "subItem": "Gym"
+              },
+              {
+                "icon": "https://img.icons8.com/color-glass/48/pool.png",
+                "amenity": "Others",
+                "subItem": "Swimming Pool"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-refreshment-coffee-flaticons-lineal-color-flat-icons.png",
+                "amenity": "",
+                "subItem": "Means of Identification"
+              }
+            ],
+            "things_allowed": null,
+            "number_rooms_type": "1",
+            "full_payment": false,
+            "full_payment_info": ["Cash", "Bank Transfer", "Debit Card"],
+            "pay_half": false,
+            "pay_at_hotel": true,
+            "pay_through_agency": false,
+            "property_video": null,
+            "cancellation_policy_time": "24",
+            "cancellation_policy_update_name": null,
+            "cancellation_policy_update_time": null,
+            "cancellation_policy_percentage": "75",
+            "vat": "Yes",
+            "post_stay": null,
+            "vat_percentage": null,
+            "agree_is_best_price": true,
+            "age_restriction": "18",
+            "check_in_time": "14:00",
+            "check_out_time": "12:00",
+            "main_photo": [
+              "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_cr8PsYx.jpg"
+            ],
+            "exterior_photo": [
+              {
+                "caption": "Reception",
+                "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_HlRsQCI.jpg",
+                "loading": false,
+                "progress": 0
+              },
+              {
+                "caption": "Meeting room",
+                "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_LMW9tR4.jpg",
+                "loading": false,
+                "progress": 0
+              },
+              {
+                "caption": "Entrance",
+                "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_pKSiZa9.jpg",
+                "loading": false,
+                "progress": 0
+              },
+              {
+                "caption": "Reception",
+                "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_2SShvdV.jpg",
+                "loading": false,
+                "progress": 0
+              }
+            ],
+            "accept_terms_and_conditions": true,
+            "go_live": false,
+            "hotel_status": "approved",
+            "created_at": "2024-04-30T17:09:30.515406+01:00",
+            "updated_at": "2025-01-28T20:17:23.035094+01:00",
+            "agreement_doc": null,
+            "number_clickes": 1486,
+            "agreement_file": null,
+            "commission": "10%",
+            "hotel_late_night_deals": true,
+            "number_likes": 0,
+            "hotel_badge": "no_badge",
+            "urgency_notification": true,
+            "urgency_notification_time": "2025-05-28T21:40:48.518678+01:00",
+            "urgency_notification_message": "Most searched today in Ikeja",
+            "user": 143
+          },
+          "roomimages": [
+            {
+              "id": 19506,
+              "image_url": "https://thetravelhunters.fra1.digitaloceanspaces.com/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel.jpg",
+              "created_at": "2025-02-19T05:13:18.522884+01:00",
+              "room": 387
+            },
+            {
+              "id": 19507,
+              "image_url": "https://thetravelhunters.fra1.digitaloceanspaces.com/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_Rgg10ZQ.jpg",
+              "created_at": "2025-02-19T05:13:18.524582+01:00",
+              "room": 387
+            }
+          ],
+          "late_night_date": [
+            {
+              "id": 41158,
+              "late_night_date": "2024-12-03",
+              "room": 387
+            },
+            {
+              "id": 41159,
+              "late_night_date": "2024-12-04",
+              "room": 387
+            },
+            {
+              "id": 41160,
+              "late_night_date": "2024-12-05",
+              "room": 387
+            },
+            {
+              "id": 41161,
+              "late_night_date": "2024-12-06",
+              "room": 387
+            },
+            {
+              "id": 41162,
+              "late_night_date": "2024-12-07",
+              "room": 387
+            },
+            {
+              "id": 41163,
+              "late_night_date": "2024-12-08",
+              "room": 387
+            },
+            {
+              "id": 41164,
+              "late_night_date": "2024-12-09",
+              "room": 387
+            },
+            {
+              "id": 41165,
+              "late_night_date": "2024-12-10",
+              "room": 387
+            },
+            {
+              "id": 41166,
+              "late_night_date": "2024-12-11",
+              "room": 387
+            },
+            {
+              "id": 41167,
+              "late_night_date": "2024-12-12",
+              "room": 387
+            },
+            {
+              "id": 41168,
+              "late_night_date": "2024-12-13",
+              "room": 387
+            },
+            {
+              "id": 41169,
+              "late_night_date": "2024-12-14",
+              "room": 387
+            },
+            {
+              "id": 41170,
+              "late_night_date": "2024-12-15",
+              "room": 387
+            },
+            {
+              "id": 41171,
+              "late_night_date": "2024-12-24",
+              "room": 387
+            },
+            {
+              "id": 41172,
+              "late_night_date": "2024-12-25",
+              "room": 387
+            },
+            {
+              "id": 41173,
+              "late_night_date": "2024-12-26",
+              "room": 387
+            },
+            {
+              "id": 41174,
+              "late_night_date": "2024-12-27",
+              "room": 387
+            },
+            {
+              "id": 41175,
+              "late_night_date": "2024-12-28",
+              "room": 387
+            },
+            {
+              "id": 41176,
+              "late_night_date": "2024-12-29",
+              "room": 387
+            },
+            {
+              "id": 41177,
+              "late_night_date": "2024-12-30",
+              "room": 387
+            },
+            {
+              "id": 41178,
+              "late_night_date": "2024-12-31",
+              "room": 387
+            },
+            {
+              "id": 41179,
+              "late_night_date": "2025-01-01",
+              "room": 387
+            },
+            {
+              "id": 41180,
+              "late_night_date": "2025-01-02",
+              "room": 387
+            },
+            {
+              "id": 41181,
+              "late_night_date": "2025-01-03",
+              "room": 387
+            },
+            {
+              "id": 41182,
+              "late_night_date": "2025-01-04",
+              "room": 387
+            },
+            {
+              "id": 41183,
+              "late_night_date": "2025-01-05",
+              "room": 387
+            },
+            {
+              "id": 41184,
+              "late_night_date": "2025-01-06",
+              "room": 387
+            },
+            {
+              "id": 41185,
+              "late_night_date": "2025-01-07",
+              "room": 387
+            },
+            {
+              "id": 41186,
+              "late_night_date": "2025-01-08",
+              "room": 387
+            },
+            {
+              "id": 41187,
+              "late_night_date": "2025-01-09",
+              "room": 387
+            },
+            {
+              "id": 41188,
+              "late_night_date": "2025-01-10",
+              "room": 387
+            },
+            {
+              "id": 41189,
+              "late_night_date": "2025-01-11",
+              "room": 387
+            },
+            {
+              "id": 41190,
+              "late_night_date": "2025-01-12",
+              "room": 387
+            },
+            {
+              "id": 41191,
+              "late_night_date": "2025-01-13",
+              "room": 387
+            },
+            {
+              "id": 41192,
+              "late_night_date": "2025-01-14",
+              "room": 387
+            },
+            {
+              "id": 41193,
+              "late_night_date": "2025-01-15",
+              "room": 387
+            },
+            {
+              "id": 41194,
+              "late_night_date": "2025-01-16",
+              "room": 387
+            },
+            {
+              "id": 41195,
+              "late_night_date": "2025-01-17",
+              "room": 387
+            },
+            {
+              "id": 41196,
+              "late_night_date": "2025-01-18",
+              "room": 387
+            },
+            {
+              "id": 41197,
+              "late_night_date": "2025-01-19",
+              "room": 387
+            },
+            {
+              "id": 41198,
+              "late_night_date": "2025-01-20",
+              "room": 387
+            },
+            {
+              "id": 41199,
+              "late_night_date": "2025-01-21",
+              "room": 387
+            },
+            {
+              "id": 41200,
+              "late_night_date": "2025-01-22",
+              "room": 387
+            },
+            {
+              "id": 41201,
+              "late_night_date": "2025-01-23",
+              "room": 387
+            },
+            {
+              "id": 41202,
+              "late_night_date": "2025-01-24",
+              "room": 387
+            },
+            {
+              "id": 41203,
+              "late_night_date": "2025-01-25",
+              "room": 387
+            },
+            {
+              "id": 41204,
+              "late_night_date": "2025-01-26",
+              "room": 387
+            },
+            {
+              "id": 41205,
+              "late_night_date": "2025-01-27",
+              "room": 387
+            },
+            {
+              "id": 41206,
+              "late_night_date": "2025-01-28",
+              "room": 387
+            },
+            {
+              "id": 41207,
+              "late_night_date": "2025-01-29",
+              "room": 387
+            },
+            {
+              "id": 41208,
+              "late_night_date": "2025-01-30",
+              "room": 387
+            },
+            {
+              "id": 41209,
+              "late_night_date": "2025-01-31",
+              "room": 387
+            },
+            {
+              "id": 41210,
+              "late_night_date": "2025-02-06",
+              "room": 387
+            },
+            {
+              "id": 41211,
+              "late_night_date": "2025-02-07",
+              "room": 387
+            },
+            {
+              "id": 41212,
+              "late_night_date": "2025-02-08",
+              "room": 387
+            },
+            {
+              "id": 41213,
+              "late_night_date": "2025-02-09",
+              "room": 387
+            },
+            {
+              "id": 41214,
+              "late_night_date": "2025-02-10",
+              "room": 387
+            },
+            {
+              "id": 41215,
+              "late_night_date": "2025-02-11",
+              "room": 387
+            },
+            {
+              "id": 41216,
+              "late_night_date": "2025-02-12",
+              "room": 387
+            },
+            {
+              "id": 41217,
+              "late_night_date": "2025-02-13",
+              "room": 387
+            },
+            {
+              "id": 41218,
+              "late_night_date": "2025-02-14",
+              "room": 387
+            },
+            {
+              "id": 41219,
+              "late_night_date": "2025-02-15",
+              "room": 387
+            },
+            {
+              "id": 41220,
+              "late_night_date": "2025-02-16",
+              "room": 387
+            },
+            {
+              "id": 41221,
+              "late_night_date": "2025-02-17",
+              "room": 387
+            },
+            {
+              "id": 41222,
+              "late_night_date": "2025-02-18",
+              "room": 387
+            },
+            {
+              "id": 41223,
+              "late_night_date": "2025-02-19",
+              "room": 387
+            },
+            {
+              "id": 41224,
+              "late_night_date": "2025-02-20",
+              "room": 387
+            },
+            {
+              "id": 41225,
+              "late_night_date": "2025-02-21",
+              "room": 387
+            },
+            {
+              "id": 41226,
+              "late_night_date": "2025-02-22",
+              "room": 387
+            },
+            {
+              "id": 41227,
+              "late_night_date": "2025-02-23",
+              "room": 387
+            },
+            {
+              "id": 41228,
+              "late_night_date": "2025-02-24",
+              "room": 387
+            },
+            {
+              "id": 41229,
+              "late_night_date": "2025-02-25",
+              "room": 387
+            },
+            {
+              "id": 41230,
+              "late_night_date": "2025-02-26",
+              "room": 387
+            },
+            {
+              "id": 41231,
+              "late_night_date": "2025-02-27",
+              "room": 387
+            },
+            {
+              "id": 41232,
+              "late_night_date": "2025-02-28",
+              "room": 387
+            }
+          ],
+          "rooms_rates_per_night": 105000,
+          "number_of_rooms": 0,
+          "number_of_room_taken": 0,
+          "room_name": "Classic Room",
+          "rooms_capacity": 2,
+          "room_video": null,
+          "rooms_type": "Classic Room",
+          "rooms_class": "Single",
+          "rooms_bed_type": "King bed",
+          "rooms_additional_deals": [
+            {
+              "icon": "https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-breakfast-hotel-essentials-justicon-lineal-color-justicon.png",
+              "amenity": "Complementary Deals",
+              "subItem": "BreakFast Included"
+            }
+          ],
+          "rooms_amenities": [
+            {
+              "icon": "https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-breakfast-hotel-essentials-justicon-lineal-color-justicon.png",
+              "amenity": "Deals in this Room Type",
+              "subItem": "Breakfast Included"
+            },
+            {
+              "icon": "https://img.icons8.com/water-color/50/central-air-conditioning.png",
+              "amenity": "Room amenities",
+              "subItem": "Air Conditioner"
+            },
+            {
+              "icon": "https://img.icons8.com/dusk/64/fridge.png",
+              "amenity": "Room amenities",
+              "subItem": "Fridge"
+            },
+            {
+              "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-refreshment-coffee-flaticons-lineal-color-flat-icons.png",
+              "amenity": "Room amenities",
+              "subItem": "24-Hour room service"
+            },
+            {
+              "icon": "https://img.icons8.com/water-color/50/telephone.png",
+              "amenity": "Room amenities",
+              "subItem": "Telephone"
+            },
+            {
+              "icon": "https://img.icons8.com/dusk/64/shower.png",
+              "amenity": "Room amenities",
+              "subItem": "Shower"
+            },
+            {
+              "icon": "https://img.icons8.com/dusk/64/coffee_maker.png",
+              "amenity": "Room amenities",
+              "subItem": "Coffee/Tea maker"
+            }
+          ],
+          "rooms_week_rate_off": 5,
+          "rooms_month_rate_off": 5,
+          "rooms_deals_per_night": 5,
+          "late_night_deals": true,
+          "late_night_room_rate_off": 7,
+          "late_night_rooms_remaining": 2,
+          "late_night_amenities": [],
+          "created_at": "2024-05-08T10:33:05.201640+01:00"
+        },
+        {
+          "id": 390,
+          "hotel": {
+            "id": 199,
+            "state": {
+              "name": "Lagos",
+              "slug": "lagos state",
+              "country": {
+                "name": "Nigeria"
+              }
+            },
+            "country": {
+              "name": "Nigeria"
+            },
+            "district": {
+              "name": "Ikeja",
+              "state": {
+                "name": "Lagos",
+                "slug": "lagos state",
+                "country": {
+                  "name": "Nigeria"
+                }
+              }
+            },
+            "hotel_name": "The Safron Hotel",
+            "property_type": "Hotel",
+            "hotel_phone_code_1": "+234",
+            "i_own_this_property": "I own the property",
+            "hotel_phone_number_1": "906 649 8862",
+            "hotel_phone_code_2": "",
+            "hotel_phone_number_2": "",
+            "hotel_email": "reservations@thesafronhotel.com",
+            "have_channel_manager": "No",
+            "property_channel_manager": "",
+            "owner_role": "manager",
+            "is_part_of_hotel_chain": "No",
+            "property_chain_manager": "",
+            "describe_property": "The boutique hotel ‘The Safron Hotel, Ikeja’ is conveniently located in the exclusive suburb and serene environment of GRA Ikeja. Conveniently located 8km away from the Murtala Mohammed International airport and only 3km away from Ikeja shopping mall.",
+            "proximity_to_major_attractions": [
+              "City Views Our rooftop lounge on the 7th floor with a beautiful view of the Ikeja Golf Course.",
+              "Airport Proximity Conveniently located 8km away from the Murtala Mohammed International airport and only 3km away from Ikeja shopping mall."
+            ],
+            "things_to_do": [],
+            "places_nearby": [
+              "Best Western Starfire Hotel",
+              "Lagos Marriott Hotel Ikeja",
+              "Yellow Chili Restuarant and bar"
+            ],
+            "popular_landmarks": ["Best Western Starfire hotel"],
+            "property_policy": "No use of illicit Drugs on the premises",
+            "star_rating": 4.0,
+            "location_building_address": "Joel Ogunnaike St, Ikeja GRA, Ikeja 101233, Lagos, Nigeria",
+            "location_building_number": "",
+            "location_country": "Nigeria",
+            "location_state": "Lagos",
+            "location_city": "Ikeja",
+            "location_plot": "",
+            "map_location": {
+              "lat": 9.0701824,
+              "lng": 7.4842112
+            },
+            "location_timezone": "Africa/Lagos",
+            "number_of_bedrooms": null,
+            "number_of_rooms": "54",
+            "postal_code": "101233",
+            "amenities": [
+              {
+                "icon": "https://img.icons8.com/external-bearicons-gradient-bearicons/64/external-FREE-WIFI-capsule-hotel-bearicons-gradient-bearicons.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Wifi"
+              },
+              {
+                "icon": "https://img.icons8.com/nolan/64/balcony.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Balcony/Terrace"
+              },
+              {
+                "icon": "https://img.icons8.com/color/48/user-credentials.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Keyless Access"
+              },
+              {
+                "icon": "https://img.icons8.com/color/48/towel.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Towels"
+              },
+              {
+                "icon": "https://img.icons8.com/fluency/48/air-quality.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Air Conditioning"
+              },
+              {
+                "icon": "https://img.icons8.com/officel/16/valet-parking.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Free Parking"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-heating-home-improvement-flaticons-flat-flat-icons.png",
+                "amenity": "Popular among travelers",
+                "subItem": "Heating"
+              },
+              {
+                "icon": "https://img.icons8.com/external-colours-bomsymbols-/91/external-bath-cosmetics-colours-bomsymbols-.png",
+                "amenity": "Common",
+                "subItem": "Linens"
+              },
+              {
+                "icon": "https://img.icons8.com/color/48/elevator.png",
+                "amenity": "Access",
+                "subItem": "Elevator"
+              },
+              {
+                "icon": "https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/external-dishes-hygiene-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png",
+                "amenity": "Kitchen",
+                "subItem": "Dishes & Kitchen Utensils"
+              },
+              {
+                "icon": "https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-breakfast-hotel-essentials-justicon-lineal-color-justicon.png",
+                "amenity": "Kitchen",
+                "subItem": "Breakfast"
+              },
+              {
+                "icon": "https://img.icons8.com/office/16/coffee-maker.png",
+                "amenity": "Kitchen",
+                "subItem": "Coffee/Tea Maker"
+              },
+              {
+                "icon": "https://img.icons8.com/external-justicon-flat-justicon/64/external-shampoo-hotel-essentials-justicon-flat-justicon.png",
+                "amenity": "Bathroom",
+                "subItem": "Shampoo"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-body-wash-hygiene-flaticons-lineal-color-flat-icons-2.png",
+                "amenity": "Bathroom",
+                "subItem": "Bodywash"
+              },
+              {
+                "icon": "https://img.icons8.com/clouds/100/tv.png",
+                "amenity": "Entertainment",
+                "subItem": "Cable TV"
+              },
+              {
+                "icon": "https://img.icons8.com/ios-filled/50/internet.png",
+                "amenity": "Entertainment",
+                "subItem": "Free Internet"
+              },
+              {
+                "icon": "https://img.icons8.com/clouds/100/security-configuration.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "24-hour Security"
+              },
+              {
+                "icon": "https://img.icons8.com/clouds/100/doctors-bag.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "First Aid Kit"
+              },
+              {
+                "icon": "https://img.icons8.com/dusk/64/fire-extinguisher.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "Fire Extinguisher"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-cleaner-cleaning-flaticons-lineal-color-flat-icons-6.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "Cleaned by Professional Cleaning Company"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/external-hand-sanitizer-wash-hands-flatart-icons-lineal-color-flatarticons.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "Hand Sanitizer & Soap"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-smoke-detector-smart-technology-flaticons-lineal-color-flat-icons.png",
+                "amenity": "Safety and cleanliness",
+                "subItem": "Smoke Detector"
+              },
+              {
+                "icon": "https://img.icons8.com/emoji/48/united-kingdom-emoji.png",
+                "amenity": "Language Guide",
+                "subItem": "English"
+              },
+              {
+                "icon": "https://img.icons8.com/bubbles/50/meeting-room.png",
+                "amenity": "On-site facilities",
+                "subItem": "Meeting Room"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-art-gallery-museum-flaticons-flat-flat-icons.png",
+                "amenity": "On-site facilities",
+                "subItem": "Art Gallery"
+              },
+              {
+                "icon": "https://img.icons8.com/nolan/64/city-hall.png",
+                "amenity": "On-site facilities",
+                "subItem": "Event Hall"
+              },
+              {
+                "icon": "https://img.icons8.com/color-glass/48/gum-.png",
+                "amenity": "Others",
+                "subItem": "Gym"
+              },
+              {
+                "icon": "https://img.icons8.com/color-glass/48/pool.png",
+                "amenity": "Others",
+                "subItem": "Swimming Pool"
+              },
+              {
+                "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-refreshment-coffee-flaticons-lineal-color-flat-icons.png",
+                "amenity": "",
+                "subItem": "Means of Identification"
+              }
+            ],
+            "things_allowed": null,
+            "number_rooms_type": "1",
+            "full_payment": false,
+            "full_payment_info": ["Cash", "Bank Transfer", "Debit Card"],
+            "pay_half": false,
+            "pay_at_hotel": true,
+            "pay_through_agency": false,
+            "property_video": null,
+            "cancellation_policy_time": "24",
+            "cancellation_policy_update_name": null,
+            "cancellation_policy_update_time": null,
+            "cancellation_policy_percentage": "75",
+            "vat": "Yes",
+            "post_stay": null,
+            "vat_percentage": null,
+            "agree_is_best_price": true,
+            "age_restriction": "18",
+            "check_in_time": "14:00",
+            "check_out_time": "12:00",
+            "main_photo": [
+              "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_cr8PsYx.jpg"
+            ],
+            "exterior_photo": [
+              {
+                "caption": "Reception",
+                "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_HlRsQCI.jpg",
+                "loading": false,
+                "progress": 0
+              },
+              {
+                "caption": "Meeting room",
+                "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_LMW9tR4.jpg",
+                "loading": false,
+                "progress": 0
+              },
+              {
+                "caption": "Entrance",
+                "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_pKSiZa9.jpg",
+                "loading": false,
+                "progress": 0
+              },
+              {
+                "caption": "Reception",
+                "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_2SShvdV.jpg",
+                "loading": false,
+                "progress": 0
+              }
+            ],
+            "accept_terms_and_conditions": true,
+            "go_live": false,
+            "hotel_status": "approved",
+            "created_at": "2024-04-30T17:09:30.515406+01:00",
+            "updated_at": "2025-01-28T20:17:23.035094+01:00",
+            "agreement_doc": null,
+            "number_clickes": 1486,
+            "agreement_file": null,
+            "commission": "10%",
+            "hotel_late_night_deals": true,
+            "number_likes": 0,
+            "hotel_badge": "no_badge",
+            "urgency_notification": true,
+            "urgency_notification_time": "2025-05-28T21:40:48.518678+01:00",
+            "urgency_notification_message": "Most searched today in Ikeja",
+            "user": 143
+          },
+          "roomimages": [
+            {
+              "id": 19508,
+              "image_url": "https://thetravelhunters.fra1.digitaloceanspaces.com/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_D1mkyK3.jpg",
+              "created_at": "2025-02-19T05:14:16.716628+01:00",
+              "room": 390
+            },
+            {
+              "id": 19509,
+              "image_url": "https://thetravelhunters.fra1.digitaloceanspaces.com/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_5KLBezB.jpg",
+              "created_at": "2025-02-19T05:14:16.718358+01:00",
+              "room": 390
+            },
+            {
+              "id": 19510,
+              "image_url": "https://thetravelhunters.fra1.digitaloceanspaces.com/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_NLnePfH.jpg",
+              "created_at": "2025-02-19T05:14:16.719552+01:00",
+              "room": 390
+            }
+          ],
+          "late_night_date": [
+            {
+              "id": 41233,
+              "late_night_date": "2024-12-03",
+              "room": 390
+            },
+            {
+              "id": 41234,
+              "late_night_date": "2024-12-04",
+              "room": 390
+            },
+            {
+              "id": 41235,
+              "late_night_date": "2024-12-05",
+              "room": 390
+            },
+            {
+              "id": 41236,
+              "late_night_date": "2024-12-06",
+              "room": 390
+            },
+            {
+              "id": 41237,
+              "late_night_date": "2024-12-07",
+              "room": 390
+            },
+            {
+              "id": 41238,
+              "late_night_date": "2024-12-08",
+              "room": 390
+            },
+            {
+              "id": 41239,
+              "late_night_date": "2024-12-09",
+              "room": 390
+            },
+            {
+              "id": 41240,
+              "late_night_date": "2024-12-10",
+              "room": 390
+            },
+            {
+              "id": 41241,
+              "late_night_date": "2024-12-11",
+              "room": 390
+            },
+            {
+              "id": 41242,
+              "late_night_date": "2024-12-12",
+              "room": 390
+            },
+            {
+              "id": 41243,
+              "late_night_date": "2024-12-13",
+              "room": 390
+            },
+            {
+              "id": 41244,
+              "late_night_date": "2024-12-14",
+              "room": 390
+            },
+            {
+              "id": 41245,
+              "late_night_date": "2024-12-15",
+              "room": 390
+            },
+            {
+              "id": 41246,
+              "late_night_date": "2024-12-16",
+              "room": 390
+            },
+            {
+              "id": 41247,
+              "late_night_date": "2024-12-17",
+              "room": 390
+            },
+            {
+              "id": 41248,
+              "late_night_date": "2024-12-18",
+              "room": 390
+            },
+            {
+              "id": 41249,
+              "late_night_date": "2024-12-19",
+              "room": 390
+            },
+            {
+              "id": 41250,
+              "late_night_date": "2024-12-20",
+              "room": 390
+            },
+            {
+              "id": 41251,
+              "late_night_date": "2024-12-21",
+              "room": 390
+            },
+            {
+              "id": 41252,
+              "late_night_date": "2024-12-22",
+              "room": 390
+            },
+            {
+              "id": 41253,
+              "late_night_date": "2024-12-24",
+              "room": 390
+            },
+            {
+              "id": 41254,
+              "late_night_date": "2024-12-25",
+              "room": 390
+            },
+            {
+              "id": 41255,
+              "late_night_date": "2024-12-26",
+              "room": 390
+            },
+            {
+              "id": 41256,
+              "late_night_date": "2024-12-27",
+              "room": 390
+            },
+            {
+              "id": 41257,
+              "late_night_date": "2024-12-28",
+              "room": 390
+            },
+            {
+              "id": 41258,
+              "late_night_date": "2024-12-29",
+              "room": 390
+            },
+            {
+              "id": 41259,
+              "late_night_date": "2024-12-30",
+              "room": 390
+            },
+            {
+              "id": 41260,
+              "late_night_date": "2024-12-31",
+              "room": 390
+            },
+            {
+              "id": 41261,
+              "late_night_date": "2025-01-01",
+              "room": 390
+            },
+            {
+              "id": 41262,
+              "late_night_date": "2025-01-02",
+              "room": 390
+            },
+            {
+              "id": 41263,
+              "late_night_date": "2025-01-03",
+              "room": 390
+            },
+            {
+              "id": 41264,
+              "late_night_date": "2025-01-04",
+              "room": 390
+            },
+            {
+              "id": 41265,
+              "late_night_date": "2025-01-05",
+              "room": 390
+            },
+            {
+              "id": 41266,
+              "late_night_date": "2025-01-06",
+              "room": 390
+            },
+            {
+              "id": 41267,
+              "late_night_date": "2025-01-07",
+              "room": 390
+            },
+            {
+              "id": 41268,
+              "late_night_date": "2025-01-08",
+              "room": 390
+            },
+            {
+              "id": 41269,
+              "late_night_date": "2025-01-09",
+              "room": 390
+            },
+            {
+              "id": 41270,
+              "late_night_date": "2025-01-10",
+              "room": 390
+            },
+            {
+              "id": 41271,
+              "late_night_date": "2025-01-11",
+              "room": 390
+            },
+            {
+              "id": 41272,
+              "late_night_date": "2025-01-12",
+              "room": 390
+            },
+            {
+              "id": 41273,
+              "late_night_date": "2025-01-13",
+              "room": 390
+            },
+            {
+              "id": 41274,
+              "late_night_date": "2025-01-14",
+              "room": 390
+            },
+            {
+              "id": 41275,
+              "late_night_date": "2025-01-15",
+              "room": 390
+            },
+            {
+              "id": 41276,
+              "late_night_date": "2025-01-16",
+              "room": 390
+            },
+            {
+              "id": 41277,
+              "late_night_date": "2025-01-17",
+              "room": 390
+            },
+            {
+              "id": 41278,
+              "late_night_date": "2025-01-18",
+              "room": 390
+            },
+            {
+              "id": 41279,
+              "late_night_date": "2025-01-19",
+              "room": 390
+            },
+            {
+              "id": 41280,
+              "late_night_date": "2025-01-20",
+              "room": 390
+            },
+            {
+              "id": 41281,
+              "late_night_date": "2025-01-21",
+              "room": 390
+            },
+            {
+              "id": 41282,
+              "late_night_date": "2025-01-22",
+              "room": 390
+            },
+            {
+              "id": 41283,
+              "late_night_date": "2025-01-23",
+              "room": 390
+            },
+            {
+              "id": 41284,
+              "late_night_date": "2025-01-24",
+              "room": 390
+            },
+            {
+              "id": 41285,
+              "late_night_date": "2025-01-25",
+              "room": 390
+            },
+            {
+              "id": 41286,
+              "late_night_date": "2025-01-26",
+              "room": 390
+            },
+            {
+              "id": 41287,
+              "late_night_date": "2025-01-27",
+              "room": 390
+            },
+            {
+              "id": 41288,
+              "late_night_date": "2025-01-28",
+              "room": 390
+            },
+            {
+              "id": 41289,
+              "late_night_date": "2025-01-29",
+              "room": 390
+            },
+            {
+              "id": 41290,
+              "late_night_date": "2025-01-30",
+              "room": 390
+            },
+            {
+              "id": 41291,
+              "late_night_date": "2025-01-31",
+              "room": 390
+            },
+            {
+              "id": 41292,
+              "late_night_date": "2025-02-06",
+              "room": 390
+            },
+            {
+              "id": 41293,
+              "late_night_date": "2025-02-07",
+              "room": 390
+            },
+            {
+              "id": 41294,
+              "late_night_date": "2025-02-08",
+              "room": 390
+            },
+            {
+              "id": 41295,
+              "late_night_date": "2025-02-09",
+              "room": 390
+            },
+            {
+              "id": 41296,
+              "late_night_date": "2025-02-10",
+              "room": 390
+            },
+            {
+              "id": 41297,
+              "late_night_date": "2025-02-11",
+              "room": 390
+            },
+            {
+              "id": 41298,
+              "late_night_date": "2025-02-12",
+              "room": 390
+            },
+            {
+              "id": 41299,
+              "late_night_date": "2025-02-13",
+              "room": 390
+            },
+            {
+              "id": 41300,
+              "late_night_date": "2025-02-14",
+              "room": 390
+            },
+            {
+              "id": 41301,
+              "late_night_date": "2025-02-15",
+              "room": 390
+            },
+            {
+              "id": 41302,
+              "late_night_date": "2025-02-16",
+              "room": 390
+            },
+            {
+              "id": 41303,
+              "late_night_date": "2025-02-17",
+              "room": 390
+            },
+            {
+              "id": 41304,
+              "late_night_date": "2025-02-18",
+              "room": 390
+            },
+            {
+              "id": 41305,
+              "late_night_date": "2025-02-19",
+              "room": 390
+            },
+            {
+              "id": 41306,
+              "late_night_date": "2025-02-20",
+              "room": 390
+            },
+            {
+              "id": 41307,
+              "late_night_date": "2025-02-21",
+              "room": 390
+            },
+            {
+              "id": 41308,
+              "late_night_date": "2025-02-22",
+              "room": 390
+            },
+            {
+              "id": 41309,
+              "late_night_date": "2025-02-23",
+              "room": 390
+            },
+            {
+              "id": 41310,
+              "late_night_date": "2025-02-24",
+              "room": 390
+            },
+            {
+              "id": 41311,
+              "late_night_date": "2025-02-25",
+              "room": 390
+            },
+            {
+              "id": 41312,
+              "late_night_date": "2025-02-26",
+              "room": 390
+            },
+            {
+              "id": 41313,
+              "late_night_date": "2025-02-27",
+              "room": 390
+            },
+            {
+              "id": 41314,
+              "late_night_date": "2025-02-28",
+              "room": 390
+            }
+          ],
+          "rooms_rates_per_night": 150000,
+          "number_of_rooms": 0,
+          "number_of_room_taken": 0,
+          "room_name": "Executive Room",
+          "rooms_capacity": 2,
+          "room_video": null,
+          "rooms_type": "Executive Room",
+          "rooms_class": "Single",
+          "rooms_bed_type": "King bed",
+          "rooms_additional_deals": [
+            {
+              "icon": "https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-breakfast-hotel-essentials-justicon-lineal-color-justicon.png",
+              "amenity": "Complementary Deals",
+              "subItem": "BreakFast Included"
+            }
+          ],
+          "rooms_amenities": [
+            {
+              "icon": "https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-breakfast-hotel-essentials-justicon-lineal-color-justicon.png",
+              "amenity": "Deals in this Room Type",
+              "subItem": "Breakfast Included"
+            },
+            {
+              "icon": "https://img.icons8.com/water-color/50/telephone.png",
+              "amenity": "Room amenities",
+              "subItem": "Telephone"
+            },
+            {
+              "icon": "https://img.icons8.com/dusk/64/coffee_maker.png",
+              "amenity": "Room amenities",
+              "subItem": "Coffee/Tea maker"
+            },
+            {
+              "icon": "https://img.icons8.com/water-color/50/central-air-conditioning.png",
+              "amenity": "Room amenities",
+              "subItem": "Air Conditioner"
+            },
+            {
+              "icon": "https://img.icons8.com/dusk/64/shower.png",
+              "amenity": "Room amenities",
+              "subItem": "Shower"
+            },
+            {
+              "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-refreshment-coffee-flaticons-lineal-color-flat-icons.png",
+              "amenity": "Room amenities",
+              "subItem": "24-Hour room service"
+            },
+            {
+              "icon": "https://img.icons8.com/dusk/64/heater.png",
+              "amenity": "Room amenities",
+              "subItem": "Heater"
+            }
+          ],
+          "rooms_week_rate_off": 5,
+          "rooms_month_rate_off": 5,
+          "rooms_deals_per_night": 5,
+          "late_night_deals": true,
+          "late_night_room_rate_off": 5,
+          "late_night_rooms_remaining": 2,
+          "late_night_amenities": [],
+          "created_at": "2024-05-08T11:35:26.266762+01:00"
+        }
+      ],
+      "user": {
+        "id": 143,
+        "user": {
+          "username": "reservations",
+          "email": "reservations@thesafronhotel.com",
+          "push_token": ""
+        },
+        "user_ref_uid": "TTHU-HP-Pac4qv",
+        "email": "reservations@thesafronhotel.com",
+        "first_name": "Safron",
+        "last_name": "Hotel",
+        "phone_number": "(906) 649-8862",
+        "country_code": "234",
+        "date_of_birth": null,
+        "bank_name": "",
+        "account_number": "",
+        "account_name": "",
+        "bank_code": "",
+        "created_at": "2024-12-11T09:29:11.651933+01:00",
+        "updated_date": "2024-12-11T09:29:11.651972+01:00",
+        "country": null,
+        "state": null,
+        "district": null
+      },
+      "country": {
+        "name": "Nigeria"
+      },
+      "state": {
+        "name": "Lagos",
+        "slug": "lagos state",
+        "country": {
+          "name": "Nigeria"
+        }
+      },
+      "district": {
+        "name": "Ikeja",
+        "state": {
+          "name": "Lagos",
+          "slug": "lagos state",
+          "country": {
+            "name": "Nigeria"
+          }
+        }
+      },
+      "hotel_name": "The Safron Hotel",
+      "property_type": "Hotel",
+      "hotel_phone_code_1": "+234",
+      "i_own_this_property": "I own the property",
+      "hotel_phone_number_1": "906 649 8862",
+      "hotel_phone_code_2": "",
+      "hotel_phone_number_2": "",
+      "hotel_email": "reservations@thesafronhotel.com",
+      "have_channel_manager": "No",
+      "property_channel_manager": "",
+      "owner_role": "manager",
+      "is_part_of_hotel_chain": "No",
+      "property_chain_manager": "",
+      "describe_property": "The boutique hotel ‘The Safron Hotel, Ikeja’ is conveniently located in the exclusive suburb and serene environment of GRA Ikeja. Conveniently located 8km away from the Murtala Mohammed International airport and only 3km away from Ikeja shopping mall.",
+      "proximity_to_major_attractions": [
+        "City Views Our rooftop lounge on the 7th floor with a beautiful view of the Ikeja Golf Course.",
+        "Airport Proximity Conveniently located 8km away from the Murtala Mohammed International airport and only 3km away from Ikeja shopping mall."
+      ],
+      "things_to_do": [],
+      "places_nearby": [
+        "Best Western Starfire Hotel",
+        "Lagos Marriott Hotel Ikeja",
+        "Yellow Chili Restuarant and bar"
+      ],
+      "popular_landmarks": ["Best Western Starfire hotel"],
+      "property_policy": "No use of illicit Drugs on the premises",
+      "star_rating": 4.0,
+      "location_building_address": "Joel Ogunnaike St, Ikeja GRA, Ikeja 101233, Lagos, Nigeria",
+      "location_building_number": "",
+      "location_country": "Nigeria",
+      "location_state": "Lagos",
+      "location_city": "Ikeja",
+      "location_plot": "",
+      "map_location": {
+        "lat": 9.0701824,
+        "lng": 7.4842112
+      },
+      "location_timezone": "Africa/Lagos",
+      "number_of_bedrooms": null,
+      "number_of_rooms": "54",
+      "postal_code": "101233",
+      "amenities": [
+        {
+          "icon": "https://img.icons8.com/external-bearicons-gradient-bearicons/64/external-FREE-WIFI-capsule-hotel-bearicons-gradient-bearicons.png",
+          "amenity": "Popular among travelers",
+          "subItem": "Wifi"
+        },
+        {
+          "icon": "https://img.icons8.com/nolan/64/balcony.png",
+          "amenity": "Popular among travelers",
+          "subItem": "Balcony/Terrace"
+        },
+        {
+          "icon": "https://img.icons8.com/color/48/user-credentials.png",
+          "amenity": "Popular among travelers",
+          "subItem": "Keyless Access"
+        },
+        {
+          "icon": "https://img.icons8.com/color/48/towel.png",
+          "amenity": "Popular among travelers",
+          "subItem": "Towels"
+        },
+        {
+          "icon": "https://img.icons8.com/fluency/48/air-quality.png",
+          "amenity": "Popular among travelers",
+          "subItem": "Air Conditioning"
+        },
+        {
+          "icon": "https://img.icons8.com/officel/16/valet-parking.png",
+          "amenity": "Popular among travelers",
+          "subItem": "Free Parking"
+        },
+        {
+          "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-heating-home-improvement-flaticons-flat-flat-icons.png",
+          "amenity": "Popular among travelers",
+          "subItem": "Heating"
+        },
+        {
+          "icon": "https://img.icons8.com/external-colours-bomsymbols-/91/external-bath-cosmetics-colours-bomsymbols-.png",
+          "amenity": "Common",
+          "subItem": "Linens"
+        },
+        {
+          "icon": "https://img.icons8.com/color/48/elevator.png",
+          "amenity": "Access",
+          "subItem": "Elevator"
+        },
+        {
+          "icon": "https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/external-dishes-hygiene-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png",
+          "amenity": "Kitchen",
+          "subItem": "Dishes & Kitchen Utensils"
+        },
+        {
+          "icon": "https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-breakfast-hotel-essentials-justicon-lineal-color-justicon.png",
+          "amenity": "Kitchen",
+          "subItem": "Breakfast"
+        },
+        {
+          "icon": "https://img.icons8.com/office/16/coffee-maker.png",
+          "amenity": "Kitchen",
+          "subItem": "Coffee/Tea Maker"
+        },
+        {
+          "icon": "https://img.icons8.com/external-justicon-flat-justicon/64/external-shampoo-hotel-essentials-justicon-flat-justicon.png",
+          "amenity": "Bathroom",
+          "subItem": "Shampoo"
+        },
+        {
+          "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-body-wash-hygiene-flaticons-lineal-color-flat-icons-2.png",
+          "amenity": "Bathroom",
+          "subItem": "Bodywash"
+        },
+        {
+          "icon": "https://img.icons8.com/clouds/100/tv.png",
+          "amenity": "Entertainment",
+          "subItem": "Cable TV"
+        },
+        {
+          "icon": "https://img.icons8.com/ios-filled/50/internet.png",
+          "amenity": "Entertainment",
+          "subItem": "Free Internet"
+        },
+        {
+          "icon": "https://img.icons8.com/clouds/100/security-configuration.png",
+          "amenity": "Safety and cleanliness",
+          "subItem": "24-hour Security"
+        },
+        {
+          "icon": "https://img.icons8.com/clouds/100/doctors-bag.png",
+          "amenity": "Safety and cleanliness",
+          "subItem": "First Aid Kit"
+        },
+        {
+          "icon": "https://img.icons8.com/dusk/64/fire-extinguisher.png",
+          "amenity": "Safety and cleanliness",
+          "subItem": "Fire Extinguisher"
+        },
+        {
+          "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-cleaner-cleaning-flaticons-lineal-color-flat-icons-6.png",
+          "amenity": "Safety and cleanliness",
+          "subItem": "Cleaned by Professional Cleaning Company"
+        },
+        {
+          "icon": "https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/external-hand-sanitizer-wash-hands-flatart-icons-lineal-color-flatarticons.png",
+          "amenity": "Safety and cleanliness",
+          "subItem": "Hand Sanitizer & Soap"
+        },
+        {
+          "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-smoke-detector-smart-technology-flaticons-lineal-color-flat-icons.png",
+          "amenity": "Safety and cleanliness",
+          "subItem": "Smoke Detector"
+        },
+        {
+          "icon": "https://img.icons8.com/emoji/48/united-kingdom-emoji.png",
+          "amenity": "Language Guide",
+          "subItem": "English"
+        },
+        {
+          "icon": "https://img.icons8.com/bubbles/50/meeting-room.png",
+          "amenity": "On-site facilities",
+          "subItem": "Meeting Room"
+        },
+        {
+          "icon": "https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-art-gallery-museum-flaticons-flat-flat-icons.png",
+          "amenity": "On-site facilities",
+          "subItem": "Art Gallery"
+        },
+        {
+          "icon": "https://img.icons8.com/nolan/64/city-hall.png",
+          "amenity": "On-site facilities",
+          "subItem": "Event Hall"
+        },
+        {
+          "icon": "https://img.icons8.com/color-glass/48/gum-.png",
+          "amenity": "Others",
+          "subItem": "Gym"
+        },
+        {
+          "icon": "https://img.icons8.com/color-glass/48/pool.png",
+          "amenity": "Others",
+          "subItem": "Swimming Pool"
+        },
+        {
+          "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-refreshment-coffee-flaticons-lineal-color-flat-icons.png",
+          "amenity": "",
+          "subItem": "Means of Identification"
+        }
+      ],
+      "things_allowed": null,
+      "number_rooms_type": "1",
+      "full_payment": false,
+      "full_payment_info": ["Cash", "Bank Transfer", "Debit Card"],
+      "pay_half": false,
+      "pay_at_hotel": true,
+      "pay_through_agency": false,
+      "property_video": null,
+      "cancellation_policy_time": "24",
+      "cancellation_policy_update_name": null,
+      "cancellation_policy_update_time": null,
+      "cancellation_policy_percentage": "75",
+      "vat": "Yes",
+      "post_stay": null,
+      "vat_percentage": null,
+      "agree_is_best_price": true,
+      "age_restriction": "18",
+      "check_in_time": "14:00",
+      "check_out_time": "12:00",
+      "main_photo": [
+        "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_cr8PsYx.jpg"
+      ],
+      "exterior_photo": [
+        {
+          "caption": "Reception",
+          "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_HlRsQCI.jpg",
+          "loading": false,
+          "progress": 0
+        },
+        {
+          "caption": "Meeting room",
+          "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_LMW9tR4.jpg",
+          "loading": false,
+          "progress": 0
+        },
+        {
+          "caption": "Entrance",
+          "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_pKSiZa9.jpg",
+          "loading": false,
+          "progress": 0
+        },
+        {
+          "caption": "Reception",
+          "imgPath": "https://pub-c3c5765215d14e3d882d51123be2ba44.r2.dev/media/images/hotels/The%20Safron%20Hotel/The_Safron_Hotel_2SShvdV.jpg",
+          "loading": false,
+          "progress": 0
+        }
+      ],
+      "accept_terms_and_conditions": true,
+      "go_live": false,
+      "hotel_status": "approved",
+      "created_at": "2024-04-30T17:09:30.515406+01:00",
+      "updated_at": "2025-01-28T20:17:23.035094+01:00",
+      "agreement_doc": null,
+      "number_clickes": 1486,
+      "agreement_file": null,
+      "commission": "10%",
+      "hotel_late_night_deals": true,
+      "number_likes": 0,
+      "hotel_badge": "no_badge",
+      "urgency_notification": true,
+      "urgency_notification_time": "2025-05-28T21:40:48.518678+01:00",
+      "urgency_notification_message": "Most searched today in Ikeja"
+    }
+  ]
+}
