@@ -6,15 +6,21 @@ import type { HotelFilters } from "@/lib/types/hotel";
 import { cleanFiltersForApi } from "@/lib/utils";
 import { Suspense } from "react";
 
+type SearchParams = Promise<{ [key: string]: string | string[] | undefined }>;
 interface HotelsListPageProps {
-  searchParams: HotelFilters;
+  searchParams: SearchParams;
 }
 
 export default async function HotelsListPage({
   searchParams,
 }: HotelsListPageProps) {
 
-  const initialFilters = cleanFiltersForApi({ ...searchParams, page: 1 });
+  const resolvedSearchParams = await searchParams;
+
+  const initialFilters = cleanFiltersForApi({
+    ...resolvedSearchParams,
+    page: 1,
+  });
 
   return (
     <main className="container mx-auto px-4 py-8 space-y-8">
